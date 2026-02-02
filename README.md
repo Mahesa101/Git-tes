@@ -1,2 +1,2 @@
 # Git-tes
-Repo untuk mencoba fit remote
+Repo untuk mencoba git remote
